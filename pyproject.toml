@@ -1,0 +1,11 @@
+[project]
+name = "birkhoff-polytope-demo"
+version = "0.1.0"
+description = "Small tool to visualize the Birkhoff polytope (convex hull of permutation matrices)."
+readme = "README.md"
+requires-python = ">=3.8"
+authors = [ { name = "Robin" } ]
+dependencies = ["numpy", "scipy", "plotly"]
+
+[project.scripts]
+birkhoff-visualize = "birkhoff_polytope_demo.visualize_birkhoff:main"
