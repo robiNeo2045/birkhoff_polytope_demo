@@ -30,6 +30,12 @@ birkhoff-visualize --n 3
 
 The script will open an interactive HTML plot in your browser by default. Use `--out path.html` to save to a specific file and `--no-browser` to prevent automatically opening the browser. Output files default to `./birkhoff_outputs/birkhoff_n{n}.html`.
 
+**Demo & GitHub Pages**
+
+- A generated demo HTML for `n=4` is available in this repository under `docs/birkhoff_n4.html` and will be deployed to GitHub Pages shortly after this commit (if enabled).
+- Release page with attached HTML artifact: https://github.com/robiNeo2045/birkhoff_polytope_demo/releases/tag/v0.1.0
+
+
 Notes
 - For `n=3` there are 6 vertices (permutation matrices). For `n=4` there are 24 vertices.
 - The script projects the high-dimensional vertices to 3D using PCA (SVD) before computing the convex hull for visualization.

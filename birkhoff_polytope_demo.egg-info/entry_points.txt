@@ -1,0 +1,2 @@
+[console_scripts]
+birkhoff-visualize = birkhoff_polytope_demo.visualize_birkhoff:main

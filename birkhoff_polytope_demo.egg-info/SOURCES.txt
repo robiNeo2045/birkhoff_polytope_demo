@@ -1,0 +1,11 @@
+pyproject.toml
+Birkhoff_Polytope_demo/__init__.py
+Birkhoff_Polytope_demo/visualize_birkhoff.py
+birkhoff_polytope_demo/__init__.py
+birkhoff_polytope_demo/visualize_birkhoff.py
+birkhoff_polytope_demo.egg-info/PKG-INFO
+birkhoff_polytope_demo.egg-info/SOURCES.txt
+birkhoff_polytope_demo.egg-info/dependency_links.txt
+birkhoff_polytope_demo.egg-info/entry_points.txt
+birkhoff_polytope_demo.egg-info/requires.txt
+birkhoff_polytope_demo.egg-info/top_level.txt
